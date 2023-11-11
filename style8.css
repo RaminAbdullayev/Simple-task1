@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.esas {
+    border: 2px solid black;
+    margin: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 70em;
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.blc {
+    width: 6em;
+    height: 6em;
+    background-color: blueviolet;
+    position: absolute;
+    margin-left: 61.5em;
+    margin-top: -1.7em;
+    border-radius: 10px;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-left: 8px;
+}

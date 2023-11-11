@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin: 15px;
+}
+
+.pos {
+    width: 42em;
+    height: 3em;
+    background-color: green;
+    margin-left: 15px;
+    text-align: center;
+    padding-top: 1px;
+    position: fixed;
+}
+
+.pteq {
+    margin-top: 4.9em;
+}
