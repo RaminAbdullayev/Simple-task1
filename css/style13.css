@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.metn1 {
+    width: 40%;
+    display: inline-block;
+}
+
+.metn2 {
+    width: 45%;
+    display: inline-block;
+}
+
+.fixe {
+    width: 38%;
+    height: 6em;
+    background-color: pink;
+    position: fixed;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.stic {
+    width: 40%;
+    height: 6em;
+    background-color: antiquewhite;
+    position: fixed;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 35px;
+    top: 9em;
+}
+
+.metn11 {
+    margin-top: 9em;
+}
+
+p {
+    margin-top: 10px;
+}
